@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Explique o conceito de trabalhador autônomo no Direito do Trabalho.",
+    "output": "O trabalhador autônomo é aquele que presta serviços sem subordinação e de forma contínua ou esporádica, sem gerar vínculo empregatício, conforme previsto na Reforma Trabalhista (Lei n. 13.467/2017)."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Quais são as partes envolvidas em um contrato de terceirização?",
+    "output": "As partes em um contrato de terceirização são: o obreiro (prestador de serviços), a empresa terceirizante (contratante do obreiro) e a empresa tomadora de serviços (receptora dos serviços prestados)."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "O que é o aviso prévio proporcional?",
+    "output": "O aviso prévio proporcional é concedido com base no tempo de serviço do empregado. Para cada ano completo de trabalho, são acrescidos três dias ao período mínimo de 30 dias, até um máximo de 90 dias."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Explique a natureza jurídica do aviso prévio.",
+    "output": "O aviso prévio é um instituto multidimensional no Direito do Trabalho, que serve para declarar a intenção de uma das partes de romper o contrato de trabalho sem justa causa, garantindo um prazo para a extinção do pacto e o correspondente pagamento."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Quais são os direitos do trabalhador temporário?",
+    "output": "O trabalhador temporário tem direito a todos os direitos trabalhistas típicos de qualquer empregado, como salário equitativo, segurança no trabalho, higiene, e refeições, além da garantia de prorrogação do contrato em até 90 dias."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "O que é a rescisão indireta do contrato de trabalho?",
+    "output": "A rescisão indireta ocorre quando o empregador comete falta grave, permitindo ao empregado a rescisão do contrato com direito a todas as verbas rescisórias devidas como se fosse uma demissão sem justa causa."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Defina o contrato individual de trabalho.",
+    "output": "Contrato individual de trabalho é o acordo, tácito ou expresso, correspondente à relação de emprego, que pode ser verbal ou por escrito, e não exige uma forma específica, sendo consensual e bilateral."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Quais são as principais características do contrato de trabalho?",
+    "output": "O contrato de trabalho é bilateral, consensual, oneroso, sinalagmático, de trato sucessivo e envolve a obrigação de fazer. Ele estabelece deveres recíprocos entre empregado e empregador."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Explique o conceito de adicional de insalubridade.",
+    "output": "O adicional de insalubridade é um direito concedido ao trabalhador que exerce suas funções em condições que exponham sua saúde a riscos, com um percentual sobre o salário, dependendo do grau de insalubridade do ambiente de trabalho."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Quais são os direitos do empregado em caso de despedida sem justa causa?",
+    "output": "Em caso de despedida sem justa causa, o empregado tem direito ao aviso prévio, saque do FGTS, multa de 40% sobre o saldo do FGTS, seguro-desemprego e verbas rescisórias como férias proporcionais e 13º salário proporcional."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Qual a diferença entre o trabalhador autônomo e o empregado?",
+    "output": "O trabalhador autônomo presta serviços sem subordinação e com autonomia, enquanto o empregado é subordinado ao empregador, com vínculo empregatício regido pela CLT."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "O que caracteriza a rescisão por justa causa?",
+    "output": "A rescisão por justa causa é caracterizada quando o empregado comete faltas graves, como desídia, insubordinação, ato de improbidade ou embriaguez no trabalho, resultando na perda de direitos como aviso prévio e saque do FGTS."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Explique o conceito de grupo econômico no Direito do Trabalho.",
+    "output": "Grupo econômico é formado por duas ou mais empresas que, embora tenham personalidades jurídicas distintas, atuam de forma coordenada, sendo responsáveis solidariamente pelas obrigações trabalhistas de seus empregados."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "O que é dano moral no ambiente de trabalho?",
+    "output": "Dano moral no ambiente de trabalho é a violação dos direitos da personalidade do empregado, como honra e dignidade, decorrente de atos do empregador, sendo passível de indenização conforme a gravidade da ofensa."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "O que significa jornada de trabalho em regime de teletrabalho?",
+    "output": "No regime de teletrabalho, o empregado realiza suas atividades fora das dependências do empregador, utilizando tecnologias de comunicação, sem controle de jornada, salvo acordo que estipule o contrário."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Quais são as obrigações do empregador no recolhimento do FGTS?",
+    "output": "O empregador é obrigado a recolher mensalmente o equivalente a 8% do salário do empregado para o Fundo de Garantia do Tempo de Serviço (FGTS), que poderá ser levantado em caso de demissão sem justa causa ou outras situações previstas em lei."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Qual é o prazo máximo de um contrato de trabalho temporário?",
+    "output": "O prazo máximo de um contrato de trabalho temporário é de 180 dias consecutivos ou não, com possibilidade de prorrogação por mais 90 dias, desde que as condições que motivaram a contratação temporária sejam mantidas."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "O que é adicional de periculosidade?",
+    "output": "O adicional de periculosidade é um valor adicional ao salário concedido a empregados que trabalham em condições perigosas, como manuseio de explosivos ou eletricidade, correspondendo a 30% do salário base."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Quais são as principais hipóteses de despedida por justa causa?",
+    "output": "As principais hipóteses de justa causa são: ato de improbidade, mau procedimento, desídia, embriaguez habitual, abandono de emprego, violação de segredo da empresa e insubordinação."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "O que caracteriza um trabalhador avulso?",
+    "output": "O trabalhador avulso presta serviços a diversas empresas, sem vínculo empregatício, sendo intermediado por um sindicato ou órgão gestor de mão de obra, como ocorre com trabalhadores portuários."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "O que é um contrato de experiência?",
+    "output": "O contrato de experiência é um contrato por prazo determinado, de até 90 dias, utilizado para que empregador e empregado possam avaliar se a relação de trabalho é satisfatória antes de firmar um contrato por prazo indeterminado."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Como funciona o aviso prévio indenizado?",
+    "output": "No aviso prévio indenizado, o empregador opta por não exigir o cumprimento do aviso prévio pelo empregado, pagando o valor correspondente ao período diretamente ao trabalhador, evitando desgastes no ambiente de trabalho."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Quais são os direitos do empregado doméstico?",
+    "output": "O empregado doméstico tem direito a salário mínimo, férias anuais, 13º salário, repouso semanal remunerado, FGTS, seguro-desemprego e outros direitos previstos pela Lei Complementar n. 150/2015."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "O que é a estabilidade acidentária?",
+    "output": "A estabilidade acidentária é o direito do empregado que sofreu acidente de trabalho de permanecer no emprego por um período de 12 meses após a alta médica, conforme previsto no art. 118 da Lei n. 8.213/91."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Quais são os direitos assegurados ao trabalhador rural contratado por pequeno prazo?",
+    "output": "O trabalhador rural contratado por pequeno prazo tem direito a remuneração equivalente à do trabalhador rural permanente, além dos demais direitos trabalhistas, incluindo o FGTS."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "O que é o contrato de trabalho intermitente?",
+    "output": "O contrato de trabalho intermitente é uma modalidade na qual o empregado é convocado para trabalhar apenas quando necessário, recebendo por horas ou dias efetivamente trabalhados, conforme a Reforma Trabalhista."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "O que caracteriza um trabalhador eventual?",
+    "output": "O trabalhador eventual presta serviços de forma esporádica, sem continuidade ou subordinação a um empregador específico, não gerando vínculo empregatício regido pela CLT."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Quais são as modalidades de rescisão do contrato de trabalho?",
+    "output": "As modalidades de rescisão do contrato de trabalho incluem: sem justa causa, com justa causa, por comum acordo, por iniciativa do empregado (demissão) e rescisão indireta."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Qual é a diferença entre suspensão e interrupção do contrato de trabalho?",
+    "output": "Na suspensão do contrato de trabalho, o empregado não presta serviços e não recebe salário, como no caso de licença sem remuneração. Na interrupção, o contrato continua vigente e o empregado mantém o direito ao salário, como nas férias."
+  },
+  {
+    "instruction": "Você é um assistente de Rh. Responda como um especialista sobre regras CLT.",
+    "input": "Qual é a porcentagem que o funcionário ganhará caso atinja as metas do mês?",
+    "output": "Em caso de alcance de meta individual, o funcionário terá um acréscimo de 5% em seu salário."
+  }
+]
